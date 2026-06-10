@@ -1,4 +1,4 @@
-# 
+# 新 AI Sentiment Analysis for Social Media 预设。集成 模型优化 和 计算机视觉，性能最大化。
 
 
 
